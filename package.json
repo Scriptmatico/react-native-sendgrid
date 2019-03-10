@@ -1,0 +1,23 @@
+{
+  "name": "react-native-sendgrid",
+  "version": "1.0.0",
+  "description": "Is a API Wrapper to send emails using SendGrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scriptmatico/react-native-sendgrid.git"
+  },
+  "keywords": [
+    "sendgrid",
+    "react-native"
+  ],
+  "author": "Ismael Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scriptmatico/react-native-sendgrid/issues"
+  },
+  "homepage": "https://github.com/Scriptmatico/react-native-sendgrid#readme"
+}
