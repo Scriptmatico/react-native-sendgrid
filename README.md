@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I338SBZ)
 
-[![buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-blue.png){:height="117px" width="30px"}](https://www.buymeacoffee.com/scriptmatico)
+<a target="_blank" href="https://www.buymeacoffee.com/scriptmatico"><img width="117" height="30" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"></a>
 
 [![](https://www.paypalobjects.com/en_US/MX/i/btn/btn_donateCC_LG.gif)](https://paypal.me/Scriptmatico)
 
