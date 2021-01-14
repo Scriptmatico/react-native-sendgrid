@@ -1,3 +1,11 @@
+# **If this project result useful for you consider donate**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I338SBZ)
+
+[![buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-blue.png){:height="117px" width="30px"}](https://www.buymeacoffee.com/scriptmatico)
+
+[![](https://www.paypalobjects.com/en_US/MX/i/btn/btn_donateCC_LG.gif)](https://paypal.me/Scriptmatico)
+
 # **React Native SendGrid**
 Is a API Wrapper for SendGrid, Usage is simple
 
